@@ -6,7 +6,7 @@
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Apex, LWC, Aura, Integration, SOQL, Python, React, RN, MongoDB, NodeJS, SQL, Agile </li>
   <li><strong>linkedIn:</strong>  <a target="_blank" href="https://www.linkedin.com/in/sibel-ates-1b8970242/"><strong>Sibel Ates NJ </strong></a> </li>
-  <li><strong>Trailhead: </strong> <a href="trailblazer.me/id/sates8" target="_blank"><strong>Sibel Ates</strong></a> </li>
+  <li><strong>Trailhead: </strong> <a href="[https://trailblazer.me/id?lang=en_US](https://trailblazer.me/id/sates8)" target="_blank"><strong>Sibel Ates</strong></a> </li>
 </ul>
 
 <p align="justify">I am a Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, SOQL, SOSL, AGILE, GIT & GITHUB, PYTHON.</p>
