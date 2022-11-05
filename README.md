@@ -119,15 +119,11 @@
       </a>
      <p>HTML</p> 
     </td>
-    <td align="center">
-      <a href="                    " target="_blank">
-        <img src="       https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw2VD-G5nWWnqEbhcHAl3HoF&ust=1663931751874000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCOr_qiqPoCFQAAAAAdAAAAABAD          " width="200"/>
+    
       </a>
       <p>CSS</p>
     </td>
-    <td align="center">
-      <a href="   https://en.wikipedia.org/wiki/SQL            " target="_blank">
-        <img src="   https://en.wikipedia.org/wiki/SQL            " width="200"/>
+    
       </a>
       <p>    CPQ      </p>
     </td>
